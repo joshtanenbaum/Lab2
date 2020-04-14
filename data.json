@@ -38,52 +38,52 @@
             {"val": 1, "image": "images/janitorfish"}
         ],
         [
-            {"val": 0, "image": "/images/killmoves"},
-            {"val": 1, "image": "/images/peta.jpg"},
-            {"val": 0, "image": "/images/ralphwiggum.png"},
-            {"val": 0, "image": "/images/tracyjr"}
+            {"val": 0, "image": "images/killmoves"},
+            {"val": 1, "image": "images/peta.jpg"},
+            {"val": 0, "image": "images/ralphwiggum.png"},
+            {"val": 0, "image": "images/tracyjr"}
         ],
         [
-            {"val": 0, "image": "/images/estelle"},
-            {"val": 1, "image": "/images/nakedgun"},
-            {"val": 0, "image": "/images/mose"},
-            {"val": 0, "image": "/images/longshot.png"}
+            {"val": 0, "image": "images/estelle"},
+            {"val": 1, "image": "images/nakedgun"},
+            {"val": 0, "image": "images/mose"},
+            {"val": 0, "image": "images/longshot.png"}
         ],
         [
-            {"val": 1, "image": "/images/jerome"},
-            {"val": 0, "image": "/images/killmoves"},
-            {"val": 0, "image": "/images/harriswittels"},
-            {"val": 0, "image": "/images/orin"}
+            {"val": 1, "image": "images/jerome"},
+            {"val": 0, "image": "images/killmoves"},
+            {"val": 0, "image": "images/harriswittels"},
+            {"val": 0, "image": "images/orin"}
         ],
         [
-            {"val": 0, "image": "/images/arnie"},
-            {"val": 0, "image": "/images/billmurray2"},
-            {"val": 1, "image": "/images/councilofricks"},
-            {"val": 0, "image": "/images/magicman"}
+            {"val": 0, "image": "images/arnie"},
+            {"val": 0, "image": "images/billmurray2"},
+            {"val": 1, "image": "images/councilofricks"},
+            {"val": 0, "image": "images/magicman"}
         ],
         [
-            {"val": 0, "image": "/images/bevbighead"},
-            {"val": 1, "image": "/images/billmurray.jpg"},
-            {"val": 0, "image": "/images/gazoo.jpeg"},
-            {"val": 0, "image": "/images/jerome"}
+            {"val": 0, "image": "images/bevbighead"},
+            {"val": 1, "image": "images/billmurray.jpg"},
+            {"val": 0, "image": "images/gazoo.jpeg"},
+            {"val": 0, "image": "images/jerome"}
         ],
         [
-            {"val": 0, "image": "/images/sheepman"},
-            {"val": 1, "image": "/images/boratdrivingteacher.jpg"},
-            {"val": 0, "image": "/images/dotcom.jpg"},
-            {"val": 0, "image": "/images/debbiecourtney"}
+            {"val": 0, "image": "images/sheepman"},
+            {"val": 1, "image": "images/boratdrivingteacher.jpg"},
+            {"val": 0, "image": "images/dotcom.jpg"},
+            {"val": 0, "image": "images/debbiecourtney"}
         ]
     ],
     "answers": [
-            {"image": "/images/barney.png"},
-            {"image": "/images/teawoman"},
-            {"image": "/images/barney2.jpg"},
-            {"image": "/images/janitorfish"},
-            {"image": "/images/peta.jpg"},
-            {"image": "/images/nakedgun"},
-            {"image": "/images/jerome"},
-            {"image": "/images/councilofricks"},
-            {"image": "/images/billmurray.jpg"},
-            {"image": "/images/boratdrivingteacher.jpg"}
+            {"image": "images/barney.png"},
+            {"image": "images/teawoman"},
+            {"image": "images/barney2.jpg"},
+            {"image": "images/janitorfish"},
+            {"image": "images/peta.jpg"},
+            {"image": "images/nakedgun"},
+            {"image": "images/jerome"},
+            {"image": "images/councilofricks"},
+            {"image": "images/billmurray.jpg"},
+            {"image": "images/boratdrivingteacher.jpg"}
         ]
 }
