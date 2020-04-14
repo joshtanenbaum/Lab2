@@ -14,28 +14,28 @@
     ],
     "options": [
         [
-            {"val": 1, "image": "/images/barney.png"},
-            {"val": 0, "image": "/images/nakedgun"},
-            {"val": 0, "image": "/images/longshot.png"},
-            {"val": 0, "image": "/images/liquidman.jpg"}
+            {"val": 1, "image": "images/barney.png"},
+            {"val": 0, "image": "images/nakedgun"},
+            {"val": 0, "image": "images/longshot.png"},
+            {"val": 0, "image": "images/liquidman.jpg"}
         ],
         [
-            {"val": 0, "image": "/images/melbrooks.jpeg"},
-            {"val": 0, "image": "/images/johnnyj.jpg"},
-            {"val": 0, "image": "/images/harriswittels"},
-            {"val": 1, "image": "/images/teawoman"}
+            {"val": 0, "image": "images/melbrooks.jpeg"},
+            {"val": 0, "image": "images/johnnyj.jpg"},
+            {"val": 0, "image": "images/harriswittels"},
+            {"val": 1, "image": "images/teawoman"}
         ],
         [
-            {"val": 1, "image": "/images/barney2.jpg"},
-            {"val": 0, "image": "/images/mose"},
-            {"val": 0, "image": "/images/tracyjr"},
-            {"val": 0, "image": "/images/debbiecourtney"}
+            {"val": 1, "image": "images/barney2.jpg"},
+            {"val": 0, "image": "images/mose"},
+            {"val": 0, "image": "images/tracyjr"},
+            {"val": 0, "image": "images/debbiecourtney"}
         ],
         [
-            {"val": 0, "image": "/images/gazoo.jpeg"},
-            {"val": 0, "image": "/images/sheepman"},
-            {"val": 0, "image": "/images/magicman"},
-            {"val": 1, "image": "/images/janitorfish"}
+            {"val": 0, "image": "images/gazoo.jpeg"},
+            {"val": 0, "image": "images/sheepman"},
+            {"val": 0, "image": "images/magicman"},
+            {"val": 1, "image": "images/janitorfish"}
         ],
         [
             {"val": 0, "image": "/images/killmoves"},
