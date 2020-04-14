@@ -1,0 +1,89 @@
+{
+    "title": "ComedyTVMovie Quotes",
+    "questions": [
+        {"text": "And I say England's greatest Prime Minister was Lord Palmerston!"},
+        {"text": "Excuse me. There's a sign at Ramsett Park that says 'Do not drink the sprinkler water,' so I made sun tea with it, and now I have an infection."},
+        {"text": "All I can remember about the last two months is giving a guest lecture at Villanova. Or maybe it was a street corner."},
+        {"text": "My leg!"},
+        {"text": "But Stan, don't you know, it's always between a giant douche and a turd sandwich. Nearly every election since the beginning of time has been between some douche and some turd. They're the only people who suck up enough to make it that far in politics."},
+        {"text": "Since I met you notice things that I never knew were there before. Birds singing, dew glistening on a newly formed leaf, stoplights."},
+        {"text": "Girls like it when you give them compliments. Hey, baby, I'm no Fred Flintstone, but I can make your Bedrock."},
+        {"text": "It's not fair, you have no rights, and he's not a lawyer. We just keep him here because he's fun. Look at him go."},
+        {"text": "The Dolly Lamba, the 12th son of the Lamba himself."},
+        {"text": "You must not hit the children."}
+    ],
+    "options": [
+        [
+            {"val": 1, "image": "images/barney.png", "text": "Barney Gumbal, The Simpsons"},
+            {"val": 0, "image": "images/nakedgun", "text": "Detective Frank Drebin, Naked Gun"},
+            {"val": 0, "image": "images/longshot.png", "text": "Avatar: The Last Airbender, Longshot"},
+            {"val": 0, "image": "images/liquidman.jpg", "text": "Emperor Bont, Futurama"}
+        ],
+        [
+            {"val": 0, "image": "images/melbrooks.jpeg", "text": "Governor Lepetomane, Blazing Saddles"},
+            {"val": 0, "image": "images/johnnyj.jpg", "text": "Johnny Johnson, Newsradio"},
+            {"val": 0, "image": "images/harriswittels", "text": "Harris, Parks and Rec"},
+            {"val": 1, "image": "images/teawoman", "text": "Gretel, Parks and Rec"}
+        ],
+        [
+            {"val": 1, "image": "images/barney2.jpg", "text": "Barney Gumbal, The Simpsons"},
+            {"val": 0, "image": "images/mose", "text": "Mose, The Office"},
+            {"val": 0, "image": "images/tracyjr", "text": "Tracy Jr, 30 Rock"},
+            {"val": 0, "image": "images/debbiecourtney", "text": "Debbie and Courtney, The Middle"}
+        ],
+        [
+            {"val": 0, "image": "images/gazoo.jpeg", "text": "Gazoo, The Jetsons"},
+            {"val": 0, "image": "images/sheepman", "text": "Mr. Sheepman, Clone High"},
+            {"val": 0, "image": "images/magicman", "text": "Magicman, Adventure Time"},
+            {"val": 1, "image": "images/janitorfish", "text": "Fred the Fish, Spongebob Squarepants"}
+        ],
+        [
+            {"val": 0, "image": "images/killmoves", "text": "Kill Moves, Everybody Hates Chris"},
+            {"val": 1, "image": "images/peta.jpg", "text": "PETA Guy, South Park"},
+            {"val": 0, "image": "images/ralphwiggum.png", "text": "Ralph Wiggum, The Simpsons"},
+            {"val": 0, "image": "images/tracyjr", "text": "Tracy Jr, 30 Rock"}
+        ],
+        [
+            {"val": 0, "image": "images/estelle", "text": "Estelle Costanza, Seinfeld"},
+            {"val": 1, "image": "images/nakedgun", "text": "Detective Frank Drebin, Naked Gun"},
+            {"val": 0, "image": "images/mose", "text": "Mose, The Office"},
+            {"val": 0, "image": "images/longshot.png", "text": "Avatar: The Last Airbender, Longshot"}
+        ],
+        [
+            {"val": 1, "image": "images/jerome", "text": "Jerome, Everybody Hates Chris"},
+            {"val": 0, "image": "images/killmoves", "text": "Kill Moves, Everybody Hates Chris"},
+            {"val": 0, "image": "images/harriswittels", "text": "Harris, Parks and Rec"},
+            {"val": 0, "image": "images/orin", "text": "Orin, Parks and Rec"}
+        ],
+        [
+            {"val": 0, "image": "images/arnie", "text": "Arnie, Roseanne"},
+            {"val": 0, "image": "images/billmurray2", "text": "Groundskeeper Carl, Caddyshack"},
+            {"val": 1, "image": "images/councilofricks", "text": "Council of Ricks, Rick and Morty"},
+            {"val": 0, "image": "images/magicman", "text": "Magicman, Adventure Time"}
+        ],
+        [
+            {"val": 0, "image": "images/bevbighead", "text": "Bev Bighead, Rocko's Modern Life"},
+            {"val": 1, "image": "images/billmurray.jpg", "text": "Groundskeeper Carl, Caddyshack"},
+            {"val": 0, "image": "images/gazoo.jpeg", "text": "Gazoo, The Jetsons"},
+            {"val": 0, "image": "images/jerome", "text": "Jerome, Everybody Hates Chris"}
+        ],
+        [
+            {"val": 0, "image": "images/sheepman", "text": "Mr. Sheepman, Clone High"},
+            {"val": 1, "image": "images/boratdrivingteacher.jpg", "text": "Driving Teacher, Borat"},
+            {"val": 0, "image": "images/dotcom.jpg", "text": "DotCom, 30 Rock"},
+            {"val": 0, "image": "images/debbiecourtney", "text": "Debbie and Courtney, The Middle"}
+        ]
+    ],
+    "answers": [
+            {"image": "images/barney.png"},
+            {"image": "images/teawoman"},
+            {"image": "images/barney2.jpg"},
+            {"image": "images/janitorfish"},
+            {"image": "images/peta.jpg"},
+            {"image": "images/nakedgun"},
+            {"image": "images/jerome"},
+            {"image": "images/councilofricks"},
+            {"image": "images/billmurray.jpg"},
+            {"image": "images/boratdrivingteacher.jpg"}
+        ]
+}
