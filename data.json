@@ -14,7 +14,7 @@
     ],
     "options": [
         [
-            {"val": 1, "image": "/images/barney.png"},
+            {"val": 1, "image": "images/barney.png"},
             {"val": 0, "image": "/images/nakedgun"},
             {"val": 0, "image": "/images/longshot.png"},
             {"val": 0, "image": "/images/liquidman.jpg"}
