@@ -1,5 +1,5 @@
 JSON used and worked well
-Jquery used and all worked except (reduce opacity of all unchecked photos on any input click)
+Jquery used and worked well (two main Jquery actions excluding $.getJSON: calculate quiz score, reduced opacity of all images not checked)
 
 
 Extra Credit: 
