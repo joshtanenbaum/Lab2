@@ -10,7 +10,7 @@ b) prevents certain errors (ex. Javascript functions acting on HTML elements tha
 
 
 Screencap1 (clicked picture gets blue border and transforms y coordinate decreases)
-![Alt text](/screencap1.png?raw=true)
+![Alt text](screencap1.png?raw=true)
 
 Screencap2 (submit button cycle through different colors on hover)
-![Alt text](/screencap2.png?raw=true)
+![Alt text](screencap2.png?raw=true)
